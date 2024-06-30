@@ -9,7 +9,9 @@ main {
 }
 article{
     flex: 2;
-    overflow-y: auto
+    overflow-y: auto;
+    background-color: #b2afafc4;
+    padding: 10px;
 }
 aside{
     flex: 1;
